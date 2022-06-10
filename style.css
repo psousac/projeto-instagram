@@ -38,8 +38,8 @@ body {
 
 .instagram-continue {
     display: flex;
-    align-items: center; /* horizontal */
-    justify-content: space-around; /* vertical */
+    align-items: center;
+    justify-content: space-around; 
     flex-direction: column;
     width: 50%;
     min-height: 34rem;
@@ -120,11 +120,11 @@ body {
 }
 
 .app-download:nth-child(1) {
-    background-image: url('./img/apple-button.png');
+    background-image: url('./image/apple-button.png');
 }
 
 .app-download:nth-child(2) {
-    background-image: url('./img/googleplay-button.png');
+    background-image: url('./image/googleplay-button.png');
 }
 
 /* media queries */
